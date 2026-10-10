@@ -250,7 +250,7 @@ var APP_DATA = {
           "target": "1-st-mary-of-the-immaculate-conception-church-cumberland-md"
         },
         {
-          "yaw": -0.030924005589305636,
+          "yaw": -0.028,
           "pitch": 0.35838229346289907,
           "rotation": 0,
           "target": "0-st-mary-of-the-immaculate-conception-church-cumberland-md"
