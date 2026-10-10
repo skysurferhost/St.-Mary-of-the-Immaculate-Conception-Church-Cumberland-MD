@@ -334,14 +334,14 @@ var APP_DATA = {
           "target": "6-st-mary-of-the-immaculate-conception-church-cumberland-md"
         },
         {
-          "yaw": 3.1276699478882346,
-          "pitch": -0.020016421958086283,
+          "yaw": 3.134065788899374,
+          "pitch": -0.019994118869776756,
           "rotation": 0,
           "target": "8-st-mary-of-the-immaculate-conception-church-cumberland-md"
         },
         {
-          "yaw": -3.1240289113178683,
-          "pitch": 0.37999818213275915,
+          "yaw": -3.1274438079551583,
+          "pitch": 0.33684447657426375,
           "rotation": 0,
           "target": "9-st-mary-of-the-immaculate-conception-church-cumberland-md"
         },
@@ -454,26 +454,26 @@ var APP_DATA = {
       },
       "linkHotspots": [
         {
-          "yaw": -2.1630880706269195,
-          "pitch": -0.1316761294844362,
+          "yaw": -2.009395567688955,
+          "pitch": -0.16373846061513575,
           "rotation": 0,
           "target": "4-st-mary-of-the-immaculate-conception-church-cumberland-md"
         },
         {
-          "yaw": -0.007330071213281997,
-          "pitch": 0.613077375108638,
+          "yaw": -0.00023715971062721053,
+          "pitch": 0.5078788638338878,
           "rotation": 0,
           "target": "7-st-mary-of-the-immaculate-conception-church-cumberland-md"
         },
         {
-          "yaw": -2.80867067987362,
-          "pitch": -0.10951568938688716,
+          "yaw": -2.8216369970195814,
+          "pitch": -0.1224903050987205,
           "rotation": 0,
           "target": "4-st-mary-of-the-immaculate-conception-church-cumberland-md"
         },
         {
-          "yaw": 3.105281359040748,
-          "pitch": -0.11352556531281977,
+          "yaw": 3.1052417065011912,
+          "pitch": -0.11608603454431687,
           "rotation": 0,
           "target": "8-st-mary-of-the-immaculate-conception-church-cumberland-md"
         },
@@ -532,10 +532,22 @@ var APP_DATA = {
           "target": "4-st-mary-of-the-immaculate-conception-church-cumberland-md"
         },
         {
-          "yaw": -2.7635068986476377,
-          "pitch": -0.11440656129235194,
+          "yaw": -2.8289490027755857,
+          "pitch": -0.1467558213711051,
           "rotation": 0,
           "target": "4-st-mary-of-the-immaculate-conception-church-cumberland-md"
+        },
+        {
+          "yaw": -2.532146188079963,
+          "pitch": -0.1516513039861067,
+          "rotation": 0,
+          "target": "0-st-mary-of-the-immaculate-conception-church-cumberland-md"
+        },
+        {
+          "yaw": -3.1095982147014816,
+          "pitch": -0.1434222180382676,
+          "rotation": 0,
+          "target": "8-st-mary-of-the-immaculate-conception-church-cumberland-md"
         }
       ],
       "infoHotspots": []
