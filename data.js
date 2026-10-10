@@ -910,8 +910,8 @@ var APP_DATA = {
       },
       "linkHotspots": [
         {
-          "yaw": 3.0843286816629076,
-          "pitch": 0.47476678977259823,
+          "yaw": 3.0857462826674817,
+          "pitch": 0.39568609619821515,
           "rotation": 0,
           "target": "12-st-mary-of-the-immaculate-conception-church-cumberland-md"
         },
@@ -1108,8 +1108,8 @@ var APP_DATA = {
           "target": "16-st-mary-of-the-immaculate-conception-church-cumberland-md"
         },
         {
-          "yaw": 3.112289955524856,
-          "pitch": 0.17225317430772336,
+          "yaw": 3.122250519903945,
+          "pitch": 0.1683939801893075,
           "rotation": 0,
           "target": "13-st-mary-of-the-immaculate-conception-church-cumberland-md"
         },
