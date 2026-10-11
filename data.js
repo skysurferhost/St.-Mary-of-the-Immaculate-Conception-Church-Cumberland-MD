@@ -2,7 +2,7 @@ var APP_DATA = {
   "scenes": [
     {
       "id": "0-st-mary-of-the-immaculate-conception-church-cumberland-md",
-      "name": "St. Mary of the Immaculate Conception Church Cumberland, MD",
+      "name": "St. Mary of the Immaculate Conception Catholic Church Cumberland, MD",
       "levels": [
         {
           "tileSize": 256,
@@ -80,7 +80,7 @@ var APP_DATA = {
     },
     {
       "id": "1-st-mary-of-the-immaculate-conception-church-cumberland-md",
-      "name": "St. Mary of the Immaculate Conception Church Cumberland, MD",
+      "name": "St. Mary of the Immaculate Conception Catholic Church Cumberland, MD",
       "levels": [
         {
           "tileSize": 256,
@@ -140,7 +140,7 @@ var APP_DATA = {
     },
     {
       "id": "2-st-mary-of-the-immaculate-conception-church-cumberland-md",
-      "name": "St. Mary of the Immaculate Conception Church Cumberland, MD",
+      "name": "St. Mary of the Immaculate Conception Catholic Church Cumberland, MD",
       "levels": [
         {
           "tileSize": 256,
@@ -212,7 +212,7 @@ var APP_DATA = {
     },
     {
       "id": "3-st-mary-of-the-immaculate-conception-church-cumberland-md",
-      "name": "St. Mary of the Immaculate Conception Church Cumberland, MD",
+      "name": "St. Mary of the Immaculate Conception Catholic Church Cumberland, MD",
       "levels": [
         {
           "tileSize": 256,
@@ -290,7 +290,7 @@ var APP_DATA = {
     },
     {
       "id": "4-st-mary-of-the-immaculate-conception-church-cumberland-md",
-      "name": "St. Mary of the Immaculate Conception Church Cumberland, MD",
+      "name": "St. Mary of the Immaculate Conception Catholic Church Cumberland, MD",
       "levels": [
         {
           "tileSize": 256,
@@ -368,7 +368,7 @@ var APP_DATA = {
     },
     {
       "id": "5-st-mary-of-the-immaculate-conception-church-cumberland-md",
-      "name": "St. Mary of the Immaculate Conception Church Cumberland, MD",
+      "name": "St. Mary of the Immaculate Conception Catholic Church Cumberland, MD",
       "levels": [
         {
           "tileSize": 256,
@@ -422,7 +422,7 @@ var APP_DATA = {
     },
     {
       "id": "6-st-mary-of-the-immaculate-conception-church-cumberland-md",
-      "name": "St. Mary of the Immaculate Conception Church Cumberland, MD",
+      "name": "St. Mary of the Immaculate Conception Catholic Church Cumberland, MD",
       "levels": [
         {
           "tileSize": 256,
@@ -488,7 +488,7 @@ var APP_DATA = {
     },
     {
       "id": "7-st-mary-of-the-immaculate-conception-church-cumberland-md",
-      "name": "St. Mary of the Immaculate Conception Church Cumberland, MD",
+      "name": "St. Mary of the Immaculate Conception Catholic Church Cumberland, MD",
       "levels": [
         {
           "tileSize": 256,
@@ -554,7 +554,7 @@ var APP_DATA = {
     },
     {
       "id": "8-st-mary-of-the-immaculate-conception-church-cumberland-md",
-      "name": "St. Mary of the Immaculate Conception Church Cumberland, MD",
+      "name": "St. Mary of the Immaculate Conception Catholic Church Cumberland, MD",
       "levels": [
         {
           "tileSize": 256,
@@ -626,7 +626,7 @@ var APP_DATA = {
     },
     {
       "id": "9-st-mary-of-the-immaculate-conception-church-cumberland-md",
-      "name": "St. Mary of the Immaculate Conception Church Cumberland, MD",
+      "name": "St. Mary of the Immaculate Conception Catholic Church Cumberland, MD",
       "levels": [
         {
           "tileSize": 256,
@@ -692,7 +692,7 @@ var APP_DATA = {
     },
     {
       "id": "10-st-mary-of-the-immaculate-conception-church-cumberland-md",
-      "name": "St. Mary of the Immaculate Conception Church Cumberland, MD",
+      "name": "St. Mary of the Immaculate Conception Catholic Church Cumberland, MD",
       "levels": [
         {
           "tileSize": 256,
@@ -752,7 +752,7 @@ var APP_DATA = {
     },
     {
       "id": "11-st-mary-of-the-immaculate-conception-church-cumberland-md",
-      "name": "St. Mary of the Immaculate Conception Church Cumberland, MD",
+      "name": "St. Mary of the Immaculate Conception Catholic Church Cumberland, MD",
       "levels": [
         {
           "tileSize": 256,
@@ -812,7 +812,7 @@ var APP_DATA = {
     },
     {
       "id": "12-st-mary-of-the-immaculate-conception-church-cumberland-md",
-      "name": "St. Mary of the Immaculate Conception Church Cumberland, MD",
+      "name": "St. Mary of the Immaculate Conception Catholic Church Cumberland, MD",
       "levels": [
         {
           "tileSize": 256,
@@ -878,7 +878,7 @@ var APP_DATA = {
     },
     {
       "id": "13-st-mary-of-the-immaculate-conception-church-cumberland-md",
-      "name": "St. Mary of the Immaculate Conception Church Cumberland, MD",
+      "name": "St. Mary of the Immaculate Conception Catholic Church Cumberland, MD",
       "levels": [
         {
           "tileSize": 256,
@@ -932,7 +932,7 @@ var APP_DATA = {
     },
     {
       "id": "14-st-mary-of-the-immaculate-conception-church-cumberland-md",
-      "name": "St. Mary of the Immaculate Conception Church Cumberland, MD",
+      "name": "St. Mary of the Immaculate Conception Catholic Church Cumberland, MD",
       "levels": [
         {
           "tileSize": 256,
@@ -974,7 +974,7 @@ var APP_DATA = {
     },
     {
       "id": "15-st-mary-of-the-immaculate-conception-church-cumberland-md",
-      "name": "St. Mary of the Immaculate Conception Church Cumberland, MD",
+      "name": "St. Mary of the Immaculate Conception Catholic Church Cumberland, MD",
       "levels": [
         {
           "tileSize": 256,
@@ -1016,7 +1016,7 @@ var APP_DATA = {
     },
     {
       "id": "16-st-mary-of-the-immaculate-conception-church-cumberland-md",
-      "name": "St. Mary of the Immaculate Conception Church Cumberland, MD",
+      "name": "St. Mary of the Immaculate Conception Catholic Church Cumberland, MD",
       "levels": [
         {
           "tileSize": 256,
@@ -1070,7 +1070,7 @@ var APP_DATA = {
     },
     {
       "id": "17-st-mary-of-the-immaculate-conception-church-cumberland-md",
-      "name": "St. Mary of the Immaculate Conception Church Cumberland, MD",
+      "name": "St. Mary of the Immaculate Conception Catholic Church Cumberland, MD",
       "levels": [
         {
           "tileSize": 256,
@@ -1124,7 +1124,7 @@ var APP_DATA = {
     },
     {
       "id": "18-st-mary-of-the-immaculate-conception-church-cumberland-md",
-      "name": "St. Mary of the Immaculate Conception Church Cumberland, MD",
+      "name": "St. Mary of the Immaculate Conception Catholic Church Cumberland, MD",
       "levels": [
         {
           "tileSize": 256,
@@ -1184,7 +1184,7 @@ var APP_DATA = {
     },
     {
       "id": "19-st-mary-of-the-immaculate-conception-church-cumberland-md",
-      "name": "St. Mary of the Immaculate Conception Church Cumberland, MD",
+      "name": "St. Mary of the Immaculate Conception Catholic Church Cumberland, MD",
       "levels": [
         {
           "tileSize": 256,
@@ -1238,7 +1238,7 @@ var APP_DATA = {
     },
     {
       "id": "20-st-mary-of-the-immaculate-conception-church-cumberland-md",
-      "name": "St. Mary of the Immaculate Conception Church Cumberland, MD",
+      "name": "St. Mary of the Immaculate Conception Catholic Church Cumberland, MD",
       "levels": [
         {
           "tileSize": 256,
